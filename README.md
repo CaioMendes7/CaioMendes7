@@ -1,7 +1,7 @@
  Olá!! Eu sou o Caio Mendes 💾..
 .
 - Cursando Engenharia de Software - 2 ano 
-- Estudando - JS, Outbound Marketing & Sales
+- Estudando - HTML5, CSS3, JS, Python, Outbound Marketing & Sales
 - Pronome - Ele/Dele 
 
 <div style="display: inline_block"><br>
