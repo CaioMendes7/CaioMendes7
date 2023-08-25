@@ -1,7 +1,7 @@
  Olá!! Eu sou o Caio Mendes 💾..
 .
 - Cursando Engenharia de Software - 3 semestre  
-- Estudando - HTML5, CSS3, JS, Python, Salesforce introduçao Marketing Cloud 
+- Estudando - HTML5, CSS3, JS, Python, Salesforce Introduçao Marketing Cloud 
 - Pronome - Ele/Dele 
 
 <div style="display: inline_block"><br>
