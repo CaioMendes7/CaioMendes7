@@ -1,7 +1,9 @@
  Olá!! Eu sou o Caio Mendes 💾..
 .
-- Cursando Engenharia de Software - 3 semestre  
-- Estudando - HTML5, CSS3, JS, Python, Salesforce Introduçao Marketing Cloud 
+- Cursando Engenharia de Software - 4 semestre
+- Analista CRM Marketing Cloud Salesforce
+- Email Studio, Journey Builder, Estratégias de automação de marketing
+- Estudando - HTML5, CSS3, JS, Python, SQL, Salesforce Introduçao Marketing Cloud
 - Pronome - Ele/Dele 
 
 <div style="display: inline_block"><br>
@@ -9,6 +11,15 @@
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Caio-SQL" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Caio-Vscode" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" > 
+  <img align="center" alt="Caio-Trello" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img align="center" alt="Caio-Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+          
+          
  
 </div>
 
