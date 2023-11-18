@@ -1,8 +1,13 @@
  Olá!! Eu sou o Caio Mendes 💾..
 .
 - Cursando Engenharia de Software - 3 semestre  
-- Estudando - HTML5, CSS3, JS, Python, Salesforce Introduçao Marketing Cloud 
-- Pronome - Ele/Dele 
+- Estudando - HTML5, CSS3, JS, Python, SQL, Salesforce Introduçao Marketing Cloud
+- Analista CRM Marketing Cloud Salesforce
+- Automation Studio
+- Funil de e-mail marketing
+- Overview de CRM Tech
+  
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
